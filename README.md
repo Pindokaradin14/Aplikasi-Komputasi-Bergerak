@@ -1,9 +1,9 @@
-# 10116125_UTS_AKB
+# 10116099_UTS_AKB
 
-21/05/2019
-10116125
-Al Ghani Iqbal Dzulfiqar
-AKB -3
+ 10/05/2020
+ 10116099
+ Pindo Karadin
+ AKB-7
 
 Source Code Aplikasi MINE
 Dibuat untuk memenuhi UTS matakuliah Aplikasi Komputasi Bergerak
