@@ -5,5 +5,5 @@
  Pindo Karadin
  AKB-7
 
-Source Code Aplikasi MINE
+Source Code Aplikasi ini
 Dibuat untuk memenuhi UTS matakuliah Aplikasi Komputasi Bergerak
